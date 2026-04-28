@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1754" viewBox="0 0 1240 1754" role="img" aria-labelledby="title desc">
+  <title id="title">NeedBridge Sample Community Survey Form</title>
+  <desc id="desc">Printable sample paper survey form describing a medical and food need in Ejipura, Bengaluru.</desc>
+  <rect width="1240" height="1754" fill="#f4efe6"/>
+  <rect x="70" y="70" width="1100" height="1614" rx="24" fill="#fffdf8" stroke="#d6d3d1" stroke-width="4"/>
+  <text x="110" y="150" fill="#1f2937" font-family="Georgia, serif" font-size="42" font-weight="700">Community Need Intake Form</text>
+  <text x="110" y="195" fill="#475569" font-family="Arial, sans-serif" font-size="22">Sample field survey for testing NeedBridge upload extraction</text>
+
+  <g font-family="Arial, sans-serif" fill="#0f172a" font-size="24">
+    <text x="110" y="280" font-weight="700">Survey ID:</text>
+    <text x="310" y="280">NB-BLR-042</text>
+    <text x="700" y="280" font-weight="700">Date:</text>
+    <text x="820" y="280">28 April 2026</text>
+
+    <text x="110" y="350" font-weight="700">City / Area:</text>
+    <text x="310" y="350">Ejipura, Bengaluru</text>
+    <text x="700" y="350" font-weight="700">Language:</text>
+    <text x="840" y="350">English / Kannada</text>
+
+    <text x="110" y="430" font-weight="700">Reported by:</text>
+    <text x="310" y="430">Field volunteer, Ward support team</text>
+
+    <text x="110" y="520" font-weight="700">Observed community need:</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" fill="#334155" font-size="26">
+    <text x="120" y="590">Around 16 residents near the Ejipura bus stand are facing heat exhaustion.</text>
+    <text x="120" y="630">Two elderly people need immediate first aid and oral rehydration support.</text>
+    <text x="120" y="670">The local volunteer group also requested ready-to-eat food packets for</text>
+    <text x="120" y="710">about 20 people staying in temporary roadside shelter.</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" fill="#0f172a" font-size="24">
+    <text x="110" y="820" font-weight="700">Urgency noted by field team:</text>
+    <text x="470" y="820">5 / 5 (Immediate medical support needed)</text>
+
+    <text x="110" y="900" font-weight="700">Estimated beneficiaries:</text>
+    <text x="430" y="900">16 medical, 20 food support</text>
+
+    <text x="110" y="980" font-weight="700">Landmark:</text>
+    <text x="270" y="980">Near Ejipura bus stand and market road, Bengaluru</text>
+
+    <text x="110" y="1060" font-weight="700">Requested support:</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" fill="#334155" font-size="26">
+    <text x="120" y="1130">1. First aid volunteers and medical kits</text>
+    <text x="120" y="1170">2. ORS packets and drinking water</text>
+    <text x="120" y="1210">3. Ready-to-eat food packets</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" fill="#0f172a" font-size="24">
+    <text x="110" y="1330" font-weight="700">Additional notes:</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" fill="#334155" font-size="24">
+    <text x="120" y="1390">This form is intentionally designed as a clean sample upload.</text>
+    <text x="120" y="1430">Gemini should extract a high-urgency medical need in Ejipura, Bengaluru.</text>
+  </g>
+
+  <line x1="110" y1="1530" x2="520" y2="1530" stroke="#94a3b8" stroke-width="2"/>
+  <text x="110" y="1565" fill="#475569" font-family="Arial, sans-serif" font-size="20">Field signature</text>
+
+  <line x1="700" y1="1530" x2="1080" y2="1530" stroke="#94a3b8" stroke-width="2"/>
+  <text x="700" y="1565" fill="#475569" font-family="Arial, sans-serif" font-size="20">Coordinator review</text>
+</svg>
