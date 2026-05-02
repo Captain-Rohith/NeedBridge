@@ -1,3 +1,6 @@
+## visit this for prototype: [https://needbridge-890086596571.asia-south1.run.app/](https://needbridge-890086596571.asia-south1.run.app/)
+
+
 # NeedBridge
 
 NeedBridge is a Google-first volunteer coordination platform for NGOs and social impact groups. It collects community need reports, uses Google Gemini to extract structured need data, visualizes open needs on a public map, and helps volunteers discover and respond to relevant issues.
